@@ -1,3 +1,3 @@
 # dotfiles
 
-![dotfiles_Preview](/images/screenshot_01.png)
+![dotfiles_Preview](solarrdev/images/screenshot_01.png)
