@@ -1,3 +1,3 @@
 # dotfiles
 
-![dotfiles_Preview](/solarrdev/images/screenshot_01.png)
+![dotfiles_Preview](https://raw.github.com/solarrdev/images/blob/main/screenshot_01.png)
