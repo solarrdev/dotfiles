@@ -18,7 +18,7 @@ The same Powerline bar format is applied in the vimrc file, which will be config
 
 This assumes that zsh, tmux, vim and git are installed on system.
 
-'''
+```
 #set zsh as shell
 chsh -s $(which zsh)
 
@@ -30,4 +30,4 @@ git clone https://github.com/zsh-users/zsh-history-substring-search.git ~/.oh-my
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 git clone https://github.com/CaffeineViking/vimrc.git ~/.vim_temp
 sh ~/.vim_temp/setup.sh
-'''
+```
