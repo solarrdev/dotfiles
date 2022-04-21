@@ -1,4 +1,4 @@
-# Linux dotfiles
+# dotfiles Linux
 
 ![dotfiles_preview](https://github.com/solarrdev/dotfiles/blob/master/screenshot_01.png)
 
