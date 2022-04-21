@@ -29,7 +29,7 @@ chsh -s $(which zsh)
 git clone https://github.com/solarrdev/linux_dotfiles
 git clone http://github.com/robbyrussell/oh-my-zsh ~/.oh-my-zsh
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
-git clone https://github.com/zdharma/history-search-multi-word.git ~/.oh-my-zsh/custom/plugins/history-search-multi-word
+git clone https://github.com/robobenklein/zdharma-history-search-multi-word .oh-my-zsh/custom/plugins/history-search-multi-word
 git clone https://github.com/zsh-users/zsh-history-substring-search.git ~/.oh-my-zsh/custom/plugins/zsh-history-substring-search 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 git clone https://github.com/CaffeineViking/vimrc.git ~/.vim_temp
