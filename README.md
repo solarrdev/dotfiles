@@ -26,7 +26,7 @@ chsh -s $(which zsh)
 
 *Clone oh-my-zsh plugins, tmux custom vimrc repositories*
 ```
-git clone https://github.com/solarrdev/dotfiles
+git clone https://github.com/solarrdev/linux_dotfiles
 git clone http://github.com/robbyrussell/oh-my-zsh ~/.oh-my-zsh
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 git clone https://github.com/zdharma/history-search-multi-word.git ~/.oh-my-zsh/custom/plugins/history-search-multi-word
